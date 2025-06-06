@@ -1,4 +1,0 @@
-bitcoin
-threading
-requests
-hashlib

@@ -1,0 +1,8 @@
+ecdsa
+base58
+requests
+colorama
+tqdm
+ratelimit
+requests[socks]
+bit
